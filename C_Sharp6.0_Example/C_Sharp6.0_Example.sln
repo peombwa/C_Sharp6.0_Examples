@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Interface", "Interface\6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. AbstractClass", "AbstractClass\7. AbstractClass.csproj", "{CA95D511-BAA0-47BD-9832-F6DE2E59F868}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. AdvancedOperators", "AdvancedOperators\8. AdvancedOperators.csproj", "{70B955DB-B1AB-445D-AA42-3E2A1B2EFC90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CA95D511-BAA0-47BD-9832-F6DE2E59F868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA95D511-BAA0-47BD-9832-F6DE2E59F868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA95D511-BAA0-47BD-9832-F6DE2E59F868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B955DB-B1AB-445D-AA42-3E2A1B2EFC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B955DB-B1AB-445D-AA42-3E2A1B2EFC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B955DB-B1AB-445D-AA42-3E2A1B2EFC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B955DB-B1AB-445D-AA42-3E2A1B2EFC90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
